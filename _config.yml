@@ -18,8 +18,8 @@ social:
     url: https://twitter.com/SBootstrap
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: soundcloud
+    url:
 
 # Build settings
 markdown: kramdown
